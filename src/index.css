@@ -1,7 +1,3 @@
-/* =========================
-   RESET / BASE
-   ========================= */
-
 *,
 *::before,
 *::after {
@@ -15,10 +11,6 @@ body {
     background: #f3f4f6;
     color: #111827;
 }
-
-/* =========================
-   MAIN LAYOUT
-   ========================= */
 
 .main {
     display: flex;
@@ -37,15 +29,6 @@ header img {
     width: auto;
 }
 
-.stream {
-    width: 400px;
-    text-align: center;
-}
-
-/* =========================
-   TITLES
-   ========================= */
-
 .title {
     text-align: center;
     margin-bottom: 2rem;
@@ -59,10 +42,6 @@ header img {
     font-size: 1.8rem;
 }
 
-/* =========================
-   TEAMS SECTION (GREEN)
-   ========================= */
-
 .teams-section {
     width: 100%;
     padding: 2rem 1.5rem;
@@ -70,11 +49,6 @@ header img {
     border-radius: 16px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
-
-/* =========================
-   TEAMS GRID
-   2 under each other, then next column
-   ========================= */
 
 .teams-grid {
     display: grid;
@@ -117,24 +91,18 @@ header img {
     font-size: 1rem;
 }
 
-/* =========================
-   MATCHDAYS (GROUP STAGE)
-   ========================= */
-
 .matchdays {
     display: grid;
     gap: 1.5rem;
     width: 100%;
 }
 
-/* Desktop: 4 columns */
 @media (min-width: 1025px) {
     .matchdays {
         grid-template-columns: repeat(4, minmax(0, 1fr));
     }
 }
 
-/* Tablet: 2 columns */
 @media (max-width: 1024px) {
     .matchdays {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -203,10 +171,6 @@ header img {
     font-size: 0.9rem;
 }
 
-/* =========================
-   MOBILE RESPONSIVE
-   ========================= */
-
 @media (max-width: 640px) {
     .main {
         padding: 1rem;
@@ -229,7 +193,6 @@ header img {
         margin-bottom: 1.25rem;
     }
 
-    /* Teams stack vertically */
     .teams-grid {
         grid-auto-flow: row;
         grid-template-rows: none;
@@ -241,7 +204,6 @@ header img {
         width: 100%;
     }
 
-    /* Matchdays stack vertically */
     .matchdays {
         grid-template-columns: 1fr;
     }
@@ -281,8 +243,8 @@ header img {
 }
 
 .match-players {
-    font-size: 0.85rem;   /* kleiner */
-    color: #6b7280;       /* gräulich */
+    font-size: 0.85rem;
+    color: #6b7280;
     line-height: 1.2;
 }
 

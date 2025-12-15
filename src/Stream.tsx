@@ -3,7 +3,6 @@ function Stream() {
         <div
             style={{
                 width: "100%",
-                maxWidth: "1000px",
                 aspectRatio: "16 / 9",
                 backgroundColor: "#000",
                 color: "white",
