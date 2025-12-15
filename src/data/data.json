@@ -1,0 +1,99 @@
+{
+  "group_stage": {
+    "matchday_1": [
+      {
+        "team1": { "id": 1, "goals": 0, "points": 0 },
+        "team2": { "id": 2, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 3, "goals": 0, "points": 0 },
+        "team2": { "id": 4, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 5, "goals": 0, "points": 0 },
+        "team2": { "id": 6, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      }
+    ],
+    "matchday_2": [
+      {
+        "team1": { "id": 1, "goals": 0, "points": 0 },
+        "team2": { "id": 3, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 2, "goals": 0, "points": 0 },
+        "team2": { "id": 5, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 4, "goals": 0, "points": 0 },
+        "team2": { "id": 6, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      }
+    ],
+    "matchday_3": [
+      {
+        "team1": { "id": 1, "goals": 0, "points": 0 },
+        "team2": { "id": 4, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 2, "goals": 0, "points": 0 },
+        "team2": { "id": 6, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 3, "goals": 0, "points": 0 },
+        "team2": { "id": 5, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      }
+    ],
+    "matchday_4": [
+      {
+        "team1": { "id": 1, "goals": 0, "points": 0 },
+        "team2": { "id": 5, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 2, "goals": 0, "points": 0 },
+        "team2": { "id": 3, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      },
+      {
+        "team1": { "id": 4, "goals": 0, "points": 0 },
+        "team2": { "id": 6, "goals": 0, "points": 0 },
+        "status": "scheduled"
+      }
+    ]
+  },
+  "knockout_stage": {
+    "semi_finals": [
+      {
+        "slot": "SF1",
+        "matchup": "Place 1 vs Place 4",
+        "team1": { "ref": "place_1", "goals": 0 },
+        "team2": { "ref": "place_4", "goals": 0 },
+        "winner": null,
+        "status": "scheduled"
+      },
+      {
+        "slot": "SF2",
+        "matchup": "Place 2 vs Place 3",
+        "team1": { "ref": "place_2", "goals": 0 },
+        "team2": { "ref": "place_3", "goals": 0 },
+        "winner": null,
+        "status": "scheduled"
+      }
+    ],
+    "final": {
+      "matchup": "Winner SF1 vs Winner SF2",
+      "team1": { "ref": "winner_sf1", "goals": 0 },
+      "team2": { "ref": "winner_sf2", "goals": 0 },
+      "winner": null,
+      "status": "scheduled"
+    }
+  }
+}

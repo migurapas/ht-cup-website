@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team A",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 2,
+      "name": "Team B",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 3,
+      "name": "Team C",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 4,
+      "name": "Team D",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 5,
+      "name": "Team E",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 6,
+      "name": "Team F",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    }
+  ]
+}
