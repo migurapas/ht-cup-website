@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Real Madrid",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 2,
+      "name": "Manchester United",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 3,
+      "name": "FC Bayern München",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 5,
+      "name": "Deutschland",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    },
+    {
+      "id": 6,
+      "name": "Brasilien",
+      "player1": "Spieler1",
+      "player2": "Spieler2"
+    }
+  ]
+}
