@@ -13,7 +13,6 @@ function Stream() {
                 borderRadius: "12px",
             }}
         >
-            <h1>Stream</h1>
         </div>
     )
 }

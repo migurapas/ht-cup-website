@@ -187,8 +187,6 @@ function Tournament() {
 
     const standingsTable = (
         <section className="table-section">
-            <h2 className="table-title">Group Stage Table</h2>
-
             <div className="table-wrap">
                 <table className="table">
                     <thead>
