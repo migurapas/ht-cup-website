@@ -9,24 +9,24 @@
       {
         "team1": { "id": 3, "goals": 1, "points": 1 },
         "team2": { "id": 4, "goals": 1, "points": 1 },
-        "status": "scheduled"
+        "status": "played"
       },
       {
         "team1": { "id": 5, "goals": 4, "points": 3 },
         "team2": { "id": 6, "goals": 1, "points": 0 },
-        "status": "scheduled"
+        "status": "played"
       }
     ],
     "matchday_2": [
       {
         "team1": { "id": 1, "goals": 5, "points": 3 },
         "team2": { "id": 3, "goals": 0, "points": 0 },
-        "status": "scheduled"
+        "status": "played"
       },
       {
         "team1": { "id": 2, "goals": 3, "points": 3 },
         "team2": { "id": 5, "goals": 2, "points": 0 },
-        "status": "scheduled"
+        "status": "played"
       },
       {
         "team1": { "id": 4, "goals": 0, "points": 0 },
