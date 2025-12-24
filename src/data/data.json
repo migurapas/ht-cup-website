@@ -7,8 +7,8 @@
         "status": "played"
       },
       {
-        "team1": { "id": 3, "goals": 0, "points": 0 },
-        "team2": { "id": 4, "goals": 0, "points": 0 },
+        "team1": { "id": 3, "goals": 1, "points": 1 },
+        "team2": { "id": 4, "goals": 1, "points": 1 },
         "status": "scheduled"
       },
       {
