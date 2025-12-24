@@ -4,7 +4,7 @@
       {
         "team1": { "id": 1, "goals": 2, "points": 3 },
         "team2": { "id": 2, "goals": 1, "points": 0 },
-        "status": "scheduled"
+        "status": "played"
       },
       {
         "team1": { "id": 3, "goals": 0, "points": 0 },
