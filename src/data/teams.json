@@ -1,4 +1,4 @@
-{
+no{
   "teams": [
     {
       "id": 1,
@@ -32,7 +32,7 @@
     },
     {
       "id": 6,
-      "name": "Team F",
+      "name": "FC Barcelona",
       "player1": "Bauer",
       "player2": "Knitter"
     }
