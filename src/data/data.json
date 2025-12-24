@@ -41,8 +41,8 @@
         "status": "scheduled"
       },
       {
-        "team1": { "id": 2, "goals": 0, "points": 0 },
-        "team2": { "id": 6, "goals": 0, "points": 0 },
+        "team1": { "id": 2, "goals": 1, "points": 0 },
+        "team2": { "id": 6, "goals": 2, "points": 3 },
         "status": "scheduled"
       },
       {
